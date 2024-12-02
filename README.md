@@ -14,5 +14,3 @@ The dataset used for training and evaluation is sourced from [Roboflow: Detectio
 ## Results
 
 - The YOLOv8 model achieved high performance on the dataset, demonstrating robust detection capabilities.
-- Metrics and evaluation details will be shared in the final report.
-
